@@ -1,0 +1,590 @@
+Sunday:
+08:22 - 08:27, bedroom: wake_up
+
+08:22 - 08:23, bedroom  
+Step 1: [standup] (08:22 - 08:22)  
+Step 2: [lookat] <window> (08:22 - 08:23)  
+
+08:23 - 08:24, bedroom  
+Step 1: [walk] <bed> (08:23 - 08:23)  
+Step 2: [grab] <pillow> (08:23 - 08:24)  
+
+08:24 - 08:25, bedroom  
+Step 1: [put] <pillow> <bed> (08:24 - 08:24)  
+Step 2: [walk] <nightstand> (08:24 - 08:25)  
+
+08:25 - 08:26, bedroom  
+Step 1: [grab] <cellphone> (08:25 - 08:25)  
+Step 2: [drink] <mug> (08:25 - 08:26)  
+
+08:26 - 08:27, bedroom  
+Step 1: [put] <mug> <coffeetable> (08:26 - 08:26)  
+Step 2: [turnright] (08:26 - 08:27)
+
+08:27 - 08:34, bathroom: brushing_teeth
+
+08:27 - 08:29, bathroom  
+Step 1: [walk] <bathroom> (08:27 - 08:27)  
+Step 2: [switchon] <lightswitch> (08:27 - 08:27)  
+Step 3: [walk] <bathroomcounter> (08:27 - 08:28)  
+Step 4: [grab] <toothbrush> (08:28 - 08:28)  
+Step 5: [lookat] <toothpaste> (08:28 - 08:29)  
+
+08:29 - 08:34, bathroom  
+Step 1: [grab] <toothpaste> (08:29 - 08:29)  
+Step 2: [put] <toothpaste> <toothbrush> (08:29 - 08:30)  
+Step 3: [turnon] <faucet> (08:30 - 08:31)  
+Step 4: [drink] <waterglass> (08:31 - 08:33)  
+Step 5: [switchoff] <faucet> (08:34 - 08:34)
+
+08:34 - 09:03, bedroom: yoga_practice
+
+08:34 - 08:42, bedroom  
+Step 1: [walk] <bedroom> (08:34 - 08:34)  
+Step 2: [sit] <rug> (08:34 - 08:35)  
+Step 3: [touch] <pillow> (08:35 - 08:36)  
+Step 4: [put] <pillow> <bed> (08:36 - 08:37)  
+Step 5: [lookat] <ceilinglamp> (08:37 - 08:38)  
+Step 6: [switchon] <ceilinglamp> (08:38 - 08:39)  
+Step 7: [standup] (08:39 - 08:40)  
+
+08:42 - 08:50, bedroom  
+Step 1: [sit] <rug> (08:42 - 08:43)  
+Step 2: [walkforward] (08:43 - 08:44)  
+Step 3: [grab] <book> (08:44 - 08:45)  
+Step 4: [touch] <window> (08:45 - 08:46)  
+Step 5: [lookat] <photoframe> (08:46 - 08:47)  
+Step 6: [grab] <chail> (08:47 - 08:48)  
+Step 7: [put] <chair> <rug> (08:48 - 08:49)  
+Step 8: [walkforward] (08:49 - 08:50)  
+
+08:50 - 09:03, bedroom  
+Step 1: [sit] <chair> (08:50 - 08:51)  
+Step 2: [lookat] <computer> (08:51 - 08:52)  
+Step 3: [grab] <mouse> (08:52 - 08:53)  
+Step 4: [touch] <keyboard> (08:53 - 08:54)  
+Step 5: [walk] <nightstand> (08:54 - 08:55)  
+Step 6: [grab] <mug> (08:55 - 08:56)  
+Step 7: [drink] <mug> (08:56 - 08:59)  
+Step 8: [put] <mug> <coffeetable> (08:59 - 09:00)  
+Step 9: [switchoff] <ceilinglamp> (09:00 - 09:01)  
+Step 10: [standup] (09:01 - 09:02)  
+Step 11: [walkforward] (09:02 - 09:03)
+
+09:03 - 09:23, bathroom: showering
+
+09:03 - 09:05, bathroom  
+Step 1: [walk] <bathroom> (09:03 - 09:03)  
+Step 2: [switchon] <lightswitch> (09:03 - 09:03)  
+Step 3: [walk] <stall> (09:03 - 09:04)  
+Step 4: [open] <door> (09:04 - 09:04)  
+Step 5: [walkforward] (09:04 - 09:05)  
+
+09:05 - 09:10, bathroom  
+Step 1: [turnleft] (09:05 - 09:05)  
+Step 2: [grab] <barsoap> (09:05 - 09:06)  
+Step 3: [grab] <towel> (09:06 - 09:07)  
+Step 4: [touch] <faucet> (09:07 - 09:07)  
+Step 5: [open] <faucet> (09:07 - 09:08)  
+
+09:10 - 09:15, bathroom  
+Step 1: [standup] (09:10 - 09:10)  
+Step 2: [grab] <towel> (09:10 - 09:11)  
+Step 3: [put] <towel> <towelrack> (09:11 - 09:11)  
+Step 4: [walk] <stall> (09:11 - 09:12)  
+Step 5: [close] <door> (09:12 - 09:12)  
+
+09:15 - 09:20, bathroom  
+Step 1: [grab] <hairproduct> (09:15 - 09:16)  
+Step 2: [lookat] <facecream> (09:16 - 09:17)  
+Step 3: [grab] <deodorant> (09:17 - 09:18)  
+Step 4: [put] <deodorant> <bathroomcounter> (09:18 - 09:19)  
+Step 5: [put] <hairproduct> <bathroomcounter> (09:19 - 09:19)  
+
+09:20 - 09:23, bathroom  
+Step 1: [walk] <bathroomcounter> (09:20 - 09:21)  
+Step 2: [grab] <perfume> (09:21 - 09:22)  
+Step 3: [put] <perfume> <bathroomcounter> (09:22 - 09:22)  
+Step 4: [switchoff] <lightswitch> (09:22 - 09:23)  
+Step 5: [walk] <door> (09:23 - 09:23)
+
+09:23 - 09:52, kitchen: healthy_breakfast
+
+09:23 - 09:25, kitchen  
+Step 1: [walk] <kitchen> (09:23 - 09:23)  
+Step 2: [switchon] <coffeemaker> (09:23 - 09:23)  
+Step 3: [grab] <waterglass> (09:23 - 09:24)  
+Step 4: [drink] <waterglass> (09:24 - 09:25)  
+Step 5: [put] <waterglass> <kitchencounter> (09:25 - 09:25)  
+
+09:25 - 09:31, kitchen  
+Step 1: [grab] <breadslice> (09:25 - 09:25)  
+Step 2: [switchon] <toaster> (09:25 - 09:25)  
+Step 3: [put] <breadslice> <toaster> (09:26 - 09:27)  
+Step 4: [lookat] <toaster> (09:27 - 09:30)  
+Step 5: [switchoff] <toaster> (09:30 - 09:31)  
+
+09:31 - 09:39, kitchen  
+Step 1: [grab] <bananas> (09:31 - 09:31)  
+Step 2: [put] <bananas> <kitchentable> (09:31 - 09:32)  
+Step 3: [grab] <cutleryknife> (09:32 - 09:33)  
+Step 4: [put] <cutleryknife> <kitchencounter> (09:33 - 09:34)  
+Step 5: [grab] <dishbowl> (09:34 - 09:35)  
+
+09:39 - 09:45, kitchen  
+Step 1: [put] <dishbowl> <kitchentable> (09:39 - 09:39)  
+Step 2: [grab] <chocolatesyrup> (09:39 - 09:40)  
+Step 3: [put] <chocolatesyrup> <dishbowl> (09:40 - 09:41)  
+Step 4: [grab] <whippedcream> (09:41 - 09:42)  
+Step 5: [put] <whippedcream> <dishbowl> (09:42 - 09:43)  
+
+09:45 - 09:52, kitchen  
+Step 1: [sit] <kitchentable> (09:45 - 09:45)  
+Step 2: [grab] <pie> (09:45 - 09:46)  
+Step 3: [put] <pie> <kitchentable> (09:46 - 09:48)  
+Step 4: [lookat] <kitchentable> (09:48 - 09:50)  
+Step 5: [grab] <waterglass> (09:50 - 09:52)
+
+14:12 - 14:44, kitchen: planning_weekly_meals
+
+14:12 - 14:16, kitchen  
+Step 1: [walk] <kitchen> (14:12 - 14:12)  
+Step 2: [grab] <book> (14:12 - 14:12)  
+Step 3: [lookat] <book> (14:12 - 14:14)  
+Step 4: [open] <kitchencabinet> (14:14 - 14:14)  
+Step 5: [grab] <salmon> (14:14 - 14:16)  
+
+14:16 - 14:20, kitchen  
+Step 1: [put] <salmon> <kitchencounter> (14:16 - 14:16)  
+Step 2: [grab] <bellpepper> (14:16 - 14:18)  
+Step 3: [lookat] <bellpepper> (14:18 - 14:18)  
+Step 4: [put] <bellpepper> <kitchencounter> (14:18 - 14:20)  
+Step 5: [grab] <dishbowl> (14:20 - 14:20)  
+
+14:20 - 14:24, kitchen  
+Step 1: [put] <dishbowl> <kitchentable> (14:20 - 14:20)  
+Step 2: [grab] <whippedcream> (14:20 - 14:22)  
+Step 3: [lookat] <whippedcream> (14:22 - 14:23)  
+Step 4: [put] <whippedcream> <kitchencounter> (14:23 - 14:24)  
+Step 5: [grab] <chocolatesyrup> (14:24 - 14:24)  
+
+14:24 - 14:28, kitchen  
+Step 1: [put] <chocolatesyrup> <kitchencounter> (14:24 - 14:24)  
+Step 2: [grab] <bananas> (14:24 - 14:26)  
+Step 3: [lookat] <bananas> (14:26 - 14:26)  
+Step 4: [put] <bananas> <dishbowl> (14:26 - 14:28)  
+Step 5: [grab] <breadslice> (14:28 - 14:28)  
+
+14:28 - 14:32, kitchen  
+Step 1: [put] <breadslice> <kitchencounter> (14:28 - 14:28)  
+Step 2: [grab] <creamybuns> (14:28 - 14:30)  
+Step 3: [lookat] <creamybuns> (14:30 - 14:30)  
+Step 4: [put] <creamybuns> <kitchentable> (14:30 - 14:32)  
+Step 5: [grab] <chips> (14:32 - 14:32)  
+
+14:32 - 14:36, kitchen  
+Step 1: [put] <chips> <kitchencounter> (14:32 - 14:32)  
+Step 2: [grab] <waterglass> (14:32 - 14:34)  
+Step 3: [drink] <waterglass> (14:34 - 14:36)  
+Step 4: [put] <waterglass> <kitchentable> (14:36 - 14:36)  
+Step 5: [grab] <plate> (14:36 - 14:36)  
+
+14:36 - 14:40, kitchen  
+Step 1: [put] <plate> <kitchencounter> (14:36 - 14:36)  
+Step 2: [grab] <garbagecan> (14:36 - 14:38)  
+Step 3: [lookat] <garbagecan> (14:38 - 14:38)  
+Step 4: [put] <garbagecan> <kitchencounter> (14:38 - 14:40)  
+Step 5: [grab] <condimentshaker> (14:40 - 14:40)  
+
+14:40 - 14:44, kitchen  
+Step 1: [put] <condimentshaker> <kitchentable> (14:40 - 14:40)  
+Step 2: [grab] <box> (14:40 - 14:42)  
+Step 3: [lookat] <box> (14:42 - 14:42)  
+Step 4: [put] <box> <kitchencounter> (14:42 - 14:44)  
+Step 5: [switchoff] <kitchentable> (14:44 - 14:44)
+
+14:44 - 16:30, kitchen: cooking_new_recipe
+
+14:44 - 14:48, kitchen  
+Step 1: [walk] <kitchen> (14:44 - 14:44)  
+Step 2: [open] <kitchencabinet> (14:44 - 14:45)  
+Step 3: [grab] <breadslice> (14:45 - 14:46)  
+Step 4: [put] <breadslice> <kitchencounter> (14:46 - 14:46)  
+Step 5: [open] <fridge> (14:46 - 14:47)  
+
+14:48 - 14:52, kitchen  
+Step 1: [grab] <salmon> (14:48 - 14:48)  
+Step 2: [put] <salmon> <kitchencounter> (14:48 - 14:49)  
+Step 3: [close] <fridge> (14:49 - 14:49)  
+Step 4: [turnleft] (14:49 - 14:50)  
+Step 5: [grab] <fryingpan> (14:50 - 14:52)  
+
+14:52 - 14:56, kitchen  
+Step 1: [put] <fryingpan> <kitchencounter> (14:52 - 14:53)  
+Step 2: [switchon] <stove> (14:53 - 14:53)  
+Step 3: [grab] <cutleryknife> (14:53 - 14:54)  
+Step 4: [touch] <stove> (14:54 - 14:55)  
+Step 5: [put] <cutleryknife> <kitchencounter> (14:55 - 14:56)  
+
+14:56 - 15:00, kitchen  
+Step 1: [grab] <oventray> (14:56 - 14:57)  
+Step 2: [put] <oventray> <kitchencounter> (14:57 - 14:57)  
+Step 3: [grab] <chocolatesyrup> (14:57 - 14:58)  
+Step 4: [put] <chocolatesyrup> <kitchencounter> (14:58 - 14:58)  
+Step 5: [lookat] <kitchencounter> (14:58 - 15:00)  
+
+15:00 - 15:04, kitchen  
+Step 1: [grab] <dishbowl> (15:00 - 15:00)  
+Step 2: [put] <dishbowl> <kitchencounter> (15:00 - 15:01)  
+Step 3: [grab] <bellpepper> (15:01 - 15:02)  
+Step 4: [put] <bellpepper> <dishbowl> (15:02 - 15:03)  
+Step 5: [grab] <condimentbottle> (15:03 - 15:04)  
+
+15:04 - 15:08, kitchen  
+Step 1: [put] <condimentbottle> <dishbowl> (15:04 - 15:04)  
+Step 2: [grab] <whippedcream> (15:04 - 15:05)  
+Step 3: [put] <whippedcream> <kitchencounter> (15:05 - 15:05)  
+Step 4: [grab] <waterglass> (15:05 - 15:06)  
+Step 5: [drink] <waterglass> (15:06 - 15:08)  
+
+15:08 - 15:12, kitchen  
+Step 1: [put] <waterglass> <kitchencounter> (15:08 - 15:08)  
+Step 2: [grab] <dishwashingliquid> (15:08 - 15:09)  
+Step 3: [put] <dishwashingliquid> <sink> (15:09 - 15:10)  
+Step 4: [grab] <washingsponge> (15:10 - 15:11)  
+Step 5: [put] <washingsponge> <sink> (15:11 - 15:12)  
+
+15:12 - 15:16, kitchen  
+Step 1: [grab] <paper> (15:12 - 15:12)  
+Step 2: [put] <paper> <kitchentable> (15:12 - 15:13)  
+Step 3: [grab] <clock> (15:13 - 15:14)  
+Step 4: [lookat] <clock> (15:14 - 15:15)  
+Step 5: [turnright] (15:15 - 15:16)  
+
+15:16 - 15:20, kitchen  
+Step 1: [grab] <chips> (15:16 - 15:17)  
+Step 2: [put] <chips> <kitchentable> (15:17 - 15:18)  
+Step 3: [grab] <creamybuns> (15:18 - 15:19)  
+Step 4: [put] <creamybuns> <kitchentable> (15:19 - 15:20)  
+Step 5: [sit] <kitchentable> (15:20 - 15:20)  
+
+15:20 - 15:24, kitchen  
+Step 1: [grab] <wineglass> (15:20 - 15:20)  
+Step 2: [put] <wineglass> <kitchentable> (15:20 - 15:21)  
+Step 3: [grab] <cereal> (15:21 - 15:22)  
+Step 4: [put] <cereal> <kitchentable> (15:22 - 15:23)  
+Step 5: [drink] <wineglass> (15:23 - 15:24)  
+
+15:24 - 15:30, kitchen  
+Step 1: [put] <wineglass> <kitchentable> (15:24 - 15:25)  
+Step 2: [grab] <tv> (15:25 - 15:26)  
+Step 3: [lookat] <tv> (15:26 - 15:29)  
+Step 4: [grab] <fridge> (15:29 - 15:30)  
+Step 5: [close] <fridge> (15:30 - 15:30)  
+
+15:30 - 16:30, kitchen  
+Step 1: [grab] <door> (15:30 - 15:31)  
+Step 2: [open] <door> (15:31 - 15:32)  
+Step 3: [walk] <kitchen> (15:32 - 15:33)  
+Step 4: [sit] <kitchen> (15:33 - 16:30)  
+Step 5: [standup] (16:30 - 16:30)
+
+16:30 - 16:56, kitchen: cleaning_up_after_cooking
+
+16:30 - 16:36, kitchen  
+Step 1: [walk] <kitchen> (16:30 - 16:30)  
+Step 2: [grab] <dishwashingliquid> (16:30 - 16:30)  
+Step 3: [grab] <washingsponge> (16:30 - 16:31)  
+Step 4: [put] <washingsponge> <sink> (16:31 - 16:31)  
+Step 5: [lookat] <sink> (16:31 - 16:36)  
+
+16:36 - 16:44, kitchen  
+Step 1: [turnleft] (16:36 - 16:36)  
+Step 2: [grab] <plate> (16:36 - 16:37)  
+Step 3: [put] <plate> <sink> (16:37 - 16:37)  
+Step 4: [grab] <fryingpan> (16:37 - 16:38)  
+Step 5: [put] <fryingpan> <sink> (16:38 - 16:38)  
+Step 6: [grab] <cutleryfork> (16:38 - 16:39)  
+Step 7: [put] <cutleryfork> <sink> (16:39 - 16:39)  
+Step 8: [grab] <cutleryknife> (16:39 - 16:40)  
+Step 9: [put] <cutleryknife> <sink> (16:40 - 16:40)  
+Step 10: [grab] <kitchencounterdrawer> (16:40 - 16:41)  
+Step 11: [open] <kitchencounterdrawer> (16:41 - 16:41)  
+
+16:44 - 16:56, kitchen  
+Step 1: [grab] <clothespile> (16:44 - 16:45)  
+Step 2: [put] <clothespile> <garbagecan> (16:45 - 16:46)  
+Step 3: [turnright] (16:46 - 16:46)  
+Step 4: [grab] <garbagecan> (16:46 - 16:48)  
+Step 5: [put] <garbagecan> <kitchencounter> (16:48 - 16:50)  
+Step 6: [lookat] <kitchen> (16:50 - 16:52)  
+Step 7: [switchoff] <lightswitch> (16:52 - 16:56)
+
+16:56 - 18:05, livingroom: collaborative_art_project_brainstorming
+
+16:56 - 17:00, livingroom  
+Step 1: [sit] <sofa> (16:56 - 16:56)  
+Step 2: [grab] <cellphone> (16:56 - 16:57)  
+Step 3: [lookat] <computer> (16:57 - 16:58)  
+Step 4: [turnright] (16:58 - 16:58)  
+Step 5: [walk] <desk> (16:58 - 17:00)  
+
+17:00 - 17:15, livingroom  
+Step 1: [sit] <chair> (17:00 - 17:00)  
+Step 2: [grab] <folder> (17:00 - 17:01)  
+Step 3: [lookat] <computer> (17:01 - 17:02)  
+Step 4: [put] <folder> <desk> (17:02 - 17:03)  
+Step 5: [grab] <mouse> (17:03 - 17:04)  
+
+17:15 - 17:30, livingroom  
+Step 1: [grab] <paper> (17:15 - 17:15)  
+Step 2: [lookat] <wallpictureframe> (17:15 - 17:16)  
+Step 3: [put] <paper> <coffeetable> (17:16 - 17:17)  
+Step 4: [turnleft] (17:17 - 17:17)  
+Step 5: [walk] <sofa> (17:17 - 17:30)  
+
+17:30 - 17:45, livingroom  
+Step 1: [sit] <sofa> (17:30 - 17:30)  
+Step 2: [grab] <plum> (17:30 - 17:31)  
+Step 3: [drink] <mug> (17:31 - 17:32)  
+Step 4: [put] <mug> <coffeetable> (17:32 - 17:33)  
+Step 5: [lookat] <computer> (17:33 - 17:45)  
+
+17:45 - 18:05, livingroom  
+Step 1: [walk] <desk> (17:45 - 17:45)  
+Step 2: [grab] <keyboard> (17:45 - 17:46)  
+Step 3: [put] <keyboard> <desk> (17:46 - 17:46)  
+Step 4: [walkforward] (17:46 - 17:50)  
+Step 5: [sit] <chair> (17:50 - 18:05)
+
+19:00 - 19:06, bathroom: going_to_the_bathroom
+
+19:00 - 19:02, bathroom  
+Step 1: [walk] <bathroom> (19:00 - 19:00)  
+Step 2: [touch] <door> (19:00 - 19:01)  
+Step 3: [open] <toilet> (19:01 - 19:01)  
+Step 4: [sit] <toilet> (19:01 - 19:02)  
+
+19:02 - 19:04, bathroom  
+Step 1: [standup] (19:02 - 19:02)  
+Step 2: [close] <toilet> (19:02 - 19:03)  
+Step 3: [walk] <bathroomcounter> (19:03 - 19:03)  
+Step 4: [grab] <barsoap> (19:03 - 19:04)  
+
+19:04 - 19:06, bathroom  
+Step 1: [touch] <barsoap> (19:04 - 19:04)  
+Step 2: [grab] <towel> (19:04 - 19:05)  
+Step 3: [put] <towel> <towelrack> (19:05 - 19:05)  
+Step 4: [switchoff] <lightswitch> (19:06 - 19:06)
+
+19:06 - 19:50, kitchen: dinner_with_homemade_dishes
+
+19:06 - 19:12, kitchen  
+Step 1: [walk] <kitchen> (19:06 - 19:06)  
+Step 2: [switchon] <lightswitch> (19:06 - 19:06)  
+Step 3: [walk] <kitchencounter> (19:06 - 19:07)  
+Step 4: [grab] <salmon> (19:07 - 19:08)  
+Step 5: [grab] <bellpepper> (19:08 - 19:09)  
+Step 6: [put] <salmon> <kitchencounter> (19:09 - 19:10)  
+Step 7: [put] <bellpepper> <kitchencounter> (19:10 - 19:11)  
+Step 8: [lookat] <fryingpan> (19:11 - 19:12)  
+
+19:12 - 19:24, kitchen  
+Step 1: [grab] <fryingpan> (19:12 - 19:12)  
+Step 2: [put] <fryingpan> <stove> (19:12 - 19:13)  
+Step 3: [switchon] <stove> (19:13 - 19:13)  
+Step 4: [put] <salmon> <fryingpan> (19:13 - 19:15)  
+Step 5: [put] <bellpepper> <fryingpan> (19:15 - 19:16)  
+Step 6: [turnleft] (19:16 - 19:16)  
+Step 7: [walk] <fridge> (19:16 - 19:17)  
+Step 8: [open] <fridge> (19:17 - 19:17)  
+Step 9: [grab] <breadslice> (19:17 - 19:18)  
+Step 10: [close] <fridge> (19:18 - 19:18)  
+Step 11: [put] <breadslice> <kitchencounter> (19:18 - 19:19)  
+Step 12: [switchoff] <stove> (19:19 - 19:19)  
+
+19:24 - 19:50, kitchen  
+Step 1: [grab] <kitchencounter> (19:24 - 19:24)  
+Step 2: [put] <salmon> <plate> (19:24 - 19:25)  
+Step 3: [put] <bellpepper> <plate> (19:25 - 19:26)  
+Step 4: [grab] <breadslice> (19:26 - 19:26)  
+Step 5: [put] <breadslice> <plate> (19:26 - 19:27)  
+Step 6: [walk] <kitchentable> (19:27 - 19:28)  
+Step 7: [sit] <kitchentable> (19:28 - 19:28)  
+Step 8: [grab] <waterglass> (19:28 - 19:29)  
+Step 9: [drink] <waterglass> (19:29 - 19:30)  
+Step 10: [put] <waterglass> <kitchentable> (19:30 - 19:30)  
+Step 11: [grab] <cutleryfork> (19:30 - 19:31)  
+Step 12: [put] <cutleryfork> <kitchentable> (19:31 - 19:31)  
+Step 13: [grab] <cutleryknife> (19:31 - 19:32)  
+Step 14: [put] <cutleryknife> <kitchentable> (19:32 - 19:32)  
+Step 15: [grab] <chocolatesyrup> (19:32 - 19:33)  
+Step 16: [put] <chocolatesyrup> <kitchentable> (19:33 - 19:34)  
+Step 17: [turnright] (19:34 - 19:34)  
+Step 18: [walk] <tv> (19:34 - 19:35)  
+Step 19: [lookat] <tv> (19:35 - 19:37)  
+Step 20: [sit] <kitchentable> (19:37 - 19:50)
+
+19:50 - 21:12, livingroom: watching_art_documentary
+
+19:50 - 20:12, livingroom  
+Step 1: [sit] <sofa> (19:50 - 19:50)  
+Step 2: [grab] <remotecontrol> (19:50 - 19:51)  
+Step 3: [lookat] <tv> (19:51 - 19:55)  
+Step 4: [switchon] <tv> (19:55 - 19:55)  
+Step 5: [wait] <tv> (19:55 - 20:12)  
+
+20:12 - 20:30, livingroom  
+Step 1: [switchoff] <tv> (20:12 - 20:12)  
+Step 2: [standup] (20:12 - 20:12)  
+Step 3: [walk] <coffeetable> (20:12 - 20:13)  
+Step 4: [grab] <mug> (20:13 - 20:14)  
+Step 5: [drink] <mug> (20:14 - 20:15)  
+Step 6: [put] <mug> <coffeetable> (20:15 - 20:15)  
+Step 7: [sit] <sofa> (20:15 - 20:30)  
+
+20:30 - 20:54, livingroom  
+Step 1: [lookat] <ceilinglamp> (20:30 - 20:30)  
+Step 2: [switchon] <ceilinglamp> (20:30 - 20:30)  
+Step 3: [grab] <plum> (20:30 - 20:31)  
+Step 4: [eat] <plum> (20:31 - 20:32)  
+Step 5: [put] <plum> <coffeetable> (20:32 - 20:32)  
+Step 6: [grab] <keyboard> (20:32 - 20:34)  
+Step 7: [lookat] <computer> (20:34 - 20:54)  
+
+20:54 - 21:12, livingroom  
+Step 1: [grab] <folder> (20:54 - 20:54)  
+Step 2: [lookat] <folder> (20:54 - 20:55)  
+Step 3: [put] <folder> <coffeetable> (20:55 - 20:55)  
+Step 4: [standup] (20:55 - 20:55)  
+Step 5: [walk] <window> (20:55 - 20:57)  
+Step 6: [lookat] <curtains> (20:57 - 20:58)  
+Step 7: [sit] <sofa> (20:58 - 21:12)
+
+21:12 - 21:17, bathroom: going_to_the_bathroom
+
+21:12 - 21:14, bathroom  
+Step 1: [walk] <bathroom> (21:12 - 21:12)  
+Step 2: [open] <door> (21:12 - 21:12)  
+Step 3: [walk] <toilet> (21:12 - 21:13)  
+Step 4: [sit] <toilet> (21:13 - 21:14)  
+
+21:14 - 21:15, bathroom  
+Step 1: [standup] (21:14 - 21:14)  
+Step 2: [walk] <sink> (21:14 - 21:15)  
+Step 3: [touch] <faucet> (21:15 - 21:15)  
+
+21:15 - 21:17, bathroom  
+Step 1: [drink] <waterglass> (21:15 - 21:16)  
+Step 2: [put] <waterglass> <bathroomcounter> (21:16 - 21:16)  
+Step 3: [open] <bathroomcabinet> (21:16 - 21:17)  
+Step 4: [grab] <barsoap> (21:17 - 21:17)  
+Step 5: [switchoff] <lightswitch> (21:17 - 21:17)
+
+21:17 - 22:04, bedroom: creative_doodling_time
+
+21:17 - 21:25, bedroom  
+Step 1: [walk] <bedroom> (21:17 - 21:17)  
+Step 2: [sit] <chair> (21:17 - 21:18)  
+Step 3: [grab] <computer> (21:18 - 21:19)  
+Step 4: [switchon] <ceilinglamp> (21:19 - 21:20)  
+Step 5: [lookat] <computer> (21:20 - 21:25)  
+
+21:25 - 21:44, bedroom  
+Step 1: [grab] <folder> (21:25 - 21:26)  
+Step 2: [put] <folder> <desk> (21:26 - 21:27)  
+Step 3: [walk] <desk> (21:27 - 21:28)  
+Step 4: [touch] <mouse> (21:28 - 21:30)  
+Step 5: [lookat] <keyboard> (21:30 - 21:44)  
+
+21:44 - 22:04, bedroom  
+Step 1: [grab] <book> (21:44 - 21:45)  
+Step 2: [sit] <bed> (21:45 - 21:46)  
+Step 3: [lookat] <book> (21:46 - 21:50)  
+Step 4: [put] <book> <nightstand> (21:50 - 21:51)  
+Step 5: [switchoff] <ceilinglamp> (22:04 - 22:04)
+
+22:04 - 22:30, bedroom: wind_down_with_meditation
+
+22:04 - 22:12, bedroom  
+Step 1: [walk] <bedroom> (22:04 - 22:04)  
+Step 2: [switchon] <ceilinglamp> (22:04 - 22:04)  
+Step 3: [sit] <bed> (22:04 - 22:05)  
+Step 4: [grab] <book> (22:05 - 22:06)  
+Step 5: [lookat] <book> (22:06 - 22:12)  
+
+22:12 - 22:20, bedroom  
+Step 1: [put] <book> <nightstand> (22:12 - 22:12)  
+Step 2: [walk] <pillow> (22:12 - 22:13)  
+Step 3: [touch] <pillow> (22:13 - 22:13)  
+Step 4: [sit] <chair> (22:13 - 22:14)  
+Step 5: [grab] <cupcake> (22:14 - 22:16)  
+Step 6: [drink] <cupcake> (22:16 - 22:20)  
+
+22:20 - 22:30, bedroom  
+Step 1: [standup] (22:20 - 22:20)  
+Step 2: [walkforward] (22:20 - 22:22)  
+Step 3: [sit] <floor> (22:22 - 22:24)  
+Step 4: [grab] <candle> (22:24 - 22:26)  
+Step 5: [switchon] <candle> (22:26 - 22:28)  
+Step 6: [close] <window> (22:28 - 22:30)  
+Step 7: [switchoff] <ceilinglamp> (22:30 - 22:30)
+
+22:30 - 23:15, bedroom: reading_art_book
+
+22:30 - 22:37, bedroom  
+Step 1: [sit] <bed> (22:30 - 22:30)  
+Step 2: [grab] <book> (22:30 - 22:31)  
+Step 3: [lookat] <book> (22:31 - 22:32)  
+Step 4: [turnon] <tablelamp> (22:32 - 22:32)  
+Step 5: [lookat] <wallpictureframe> (22:32 - 22:37)  
+
+22:37 - 22:45, bedroom  
+Step 1: [drink] <mug> (22:37 - 22:37)  
+Step 2: [grab] <book> (22:37 - 22:38)  
+Step 3: [sit] <bed> (22:38 - 22:39)  
+Step 4: [lookat] <book> (22:39 - 22:45)  
+
+22:45 - 22:52, bedroom  
+Step 1: [grab] <book> (22:45 - 22:45)  
+Step 2: [lookat] <photoframe> (22:45 - 22:46)  
+Step 3: [put] <book> <nightstand> (22:46 - 22:47)  
+Step 4: [grab] <book> (22:47 - 22:52)  
+Step 5: [drink] <mug> (22:52 - 22:52)  
+
+22:52 - 22:59, bedroom  
+Step 1: [lookat] <book> (22:52 - 22:53)  
+Step 2: [sit] <chair> (22:53 - 22:54)  
+Step 3: [grab] <book> (22:54 - 22:55)  
+Step 4: [put] <book> <coffeetable> (22:55 - 22:56)  
+Step 5: [lookat] <clothespants> (22:56 - 22:59)  
+
+22:59 - 23:15, bedroom  
+Step 1: [standup] (22:59 - 22:59)  
+Step 2: [walkforward] (22:59 - 23:10)  
+Step 3: [sit] <bed> (23:10 - 23:12)  
+Step 4: [grab] <book> (23:12 - 23:13)  
+Step 5: [lookat] <book> (23:13 - 23:15)
+
+23:15 - 23:22, bathroom: brushing_teeth
+
+23:15 - 23:17, bathroom  
+Step 1: [walk] <bathroom> (23:15 - 23:15)  
+Step 2: [switchon] <lightswitch> (23:15 - 23:15)  
+Step 3: [walk] <bathroomcounter> (23:15 - 23:16)  
+Step 4: [grab] <toothbrush> (23:16 - 23:16)  
+Step 5: [lookat] <toothpaste> (23:16 - 23:17)  
+
+23:17 - 23:20, bathroom  
+Step 1: [grab] <toothpaste> (23:17 - 23:17)  
+Step 2: [put] <toothpaste> <toothbrush> (23:17 - 23:18)  
+Step 3: [drink] <waterglass> (23:18 - 23:19)  
+Step 4: [put] <waterglass> <bathroomcounter> (23:19 - 23:19)  
+Step 5: [switchoff] <lightswitch> (23:20 - 23:20)  
+
+23:20 - 23:22, bathroom  
+Step 1: [standup] (23:20 - 23:20)  
+Step 2: [walk] <toilet> (23:20 - 23:21)  
+Step 3: [touch] <toothbrush> (23:21 - 23:22)  
+Step 4: [walkforward] (23:22 - 23:22)
+

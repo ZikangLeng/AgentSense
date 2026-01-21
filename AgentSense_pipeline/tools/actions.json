@@ -1,0 +1,20 @@
+{
+    "walk": "Walks to a room or object",
+    "run": "Runs to a room or object",
+    "walktowards": "Walks some distance towards a room or object",
+    "walkforward": "Walks 1 meter forward",
+    "turnleft": "Turns 30 degrees left",
+    "turnright": "Turns 30 degrees right",
+    "sit": "Sit on an object",
+    "standup": "Stand up",
+    "grab": "Grab an object",
+    "open": "Open an object",
+    "close": "Close an object",
+    "put": "Put an object on some other object",
+    "putin": "Put an object inside some other object",
+    "switchon": "Turn an object on",
+    "switchoff": "Turn an object off",
+    "drink": "Drink from an object",
+    "touch": "Touch an object",
+    "lookat": "Look at an object"
+}

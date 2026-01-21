@@ -1,0 +1,27 @@
+--SYSTEM--
+You will be provided with an invalid action line and the full context of the activity block. Your task is to regenerate a valid version of the invalid line. Ensure that the regenerated line follows the predefined format provided, using only authorized actions and objects. You must return only the corrected action line, nothing else.
+
+--USER--
+Additionally, the regenerated step must adhere to one of the structural formats below. If an action requires a verb that is not on the list, replace it with the closest matching verb from the provided formats. Under no circumstances should you introduce new verbs or deviate from the defined structures. Below are the approved format structures:
+
+[walk] <object> (e.g., walk to the bedroom should be [walk] <bedroom>)
+[run] <object> (e.g., run to the kitchen should be [run] <kitchen>)
+[walkforward] (just walk forward; no objects should follow)
+[turnleft] (just turn left; no objects should follow)
+[turnright] (just turn right; no objects should follow)
+[sit] <object> (e.g., sit on the chair should be [sit] <chair>)
+[standup] (just stand up; no objects should follow)
+[grab] <object> (e.g., grab the apple should be [grab] <apple>)
+[open] <object> (e.g., open the fridge should be [open] <fridge>)
+[close] <object> (e.g., close the fridge should be [close] <fridge>)
+[put] <object 1> <object 2> (e.g., put the apple on the table should be [put] <apple> <table>)
+[switchon] <object> (e.g., switch on the stove should be [switchon] <stove>)
+[switchoff] <object> (e.g., switch off the stove should be [switchoff] <stove>)
+[drink] <object> (e.g., drink from the waterglass should be [drink] <waterglass>)
+[touch] <object> (e.g., touch the stove should be [touch] <stove>)
+[lookat] <object> (e.g., look at the stove should be [lookat] <stove>)
+
+Regenerate the invalid action line so that it strictly follows the provided structure above. The verb must remain unchanged, and objects can only be selected from the provided object list. Return only the corrected action line—do not add explanations or extra text.
+
+Example return:
+[switchon] <lightswitch>

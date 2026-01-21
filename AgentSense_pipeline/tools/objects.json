@@ -1,0 +1,1922 @@
+{
+    "carpet": {
+        "keyword": "rug"
+    },
+    "mat": {
+        "keyword": "rug"
+    },
+    "tapestry": {
+        "keyword": "rug"
+    },
+    "throw blanket": {
+        "keyword": "rug"
+    },
+    "rug": {
+        "keyword": "rug"
+    },
+    "drapes": {
+        "keyword": "curtains"
+    },
+    "blinds": {
+        "keyword": "curtains"
+    },
+    "shades": {
+        "keyword": "curtains"
+    },
+    "window treatments": {
+        "keyword": "curtains"
+    },
+    "curtains": {
+        "keyword": "curtains"
+    },
+    "chandelier": {
+        "keyword": "ceilinglamp"
+    },
+    "pendant light": {
+        "keyword": "ceilinglamp"
+    },
+    "flush mount light": {
+        "keyword": "ceilinglamp"
+    },
+    "track lighting": {
+        "keyword": "ceilinglamp"
+    },
+    "ceilinglamp": {
+        "keyword": "ceilinglamp"
+    },
+    "sconce": {
+        "keyword": "walllamp"
+    },
+    "table lamp": {
+        "keyword": "walllamp"
+    },
+    "floor lamp": {
+        "keyword": "walllamp"
+    },
+    "ceiling light": {
+        "keyword": "walllamp"
+    },
+    "walllamp": {
+        "keyword": "walllamp"
+    },
+    "shower": {
+        "keyword": "bathtub"
+    },
+    "jacuzzi": {
+        "keyword": "bathtub"
+    },
+    "spa tub": {
+        "keyword": "bathtub"
+    },
+    "whirlpool": {
+        "keyword": "bathtub"
+    },
+    "bathtub": {
+        "keyword": "bathtub"
+    },
+    "bathrobe hook": {
+        "keyword": "towelrack"
+    },
+    "bathroom shelf": {
+        "keyword": "towelrack"
+    },
+    "towel warmer": {
+        "keyword": "towelrack"
+    },
+    "clothes rack": {
+        "keyword": "towelrack"
+    },
+    "towelrack": {
+        "keyword": "towelrack"
+    },
+    "floating shelf": {
+        "keyword": "wallshelf"
+    },
+    "bookcase": {
+        "keyword": "wallshelf"
+    },
+    "wall-mounted storage": {
+        "keyword": "wallshelf"
+    },
+    "display shelf": {
+        "keyword": "wallshelf"
+    },
+    "wallshelf": {
+        "keyword": "wallshelf"
+    },
+    "booth": {
+        "keyword": "stall"
+    },
+    "kiosk": {
+        "keyword": "stall"
+    },
+    "stand": {
+        "keyword": "stall"
+    },
+    "vendor cart": {
+        "keyword": "stall"
+    },
+    "stall": {
+        "keyword": "stall"
+    },
+    "bathroom stall": {
+        "keyword": "toilet"
+    },
+    "urinal": {
+        "keyword": "toilet"
+    },
+    "commode": {
+        "keyword": "toilet"
+    },
+    "latrine": {
+        "keyword": "toilet"
+    },
+    "toilet": {
+        "keyword": "toilet"
+    },
+    "medicine cabinet": {
+        "keyword": "bathroomcabinet"
+    },
+    "vanity cabinet": {
+        "keyword": "bathroomcabinet"
+    },
+    "storage cupboard": {
+        "keyword": "bathroomcabinet"
+    },
+    "bathroomcabinet": {
+        "keyword": "bathroomcabinet"
+    },
+    "vanity": {
+        "keyword": "bathroomcounter"
+    },
+    "sink countertop": {
+        "keyword": "bathroomcounter"
+    },
+    "dressing table": {
+        "keyword": "bathroomcounter"
+    },
+    "kitchen counter": {
+        "keyword": "bathroomcounter"
+    },
+    "bathroomcounter": {
+        "keyword": "bathroomcounter"
+    },
+    "tap": {
+        "keyword": "faucet"
+    },
+    "valve": {
+        "keyword": "faucet"
+    },
+    "spigot": {
+        "keyword": "faucet"
+    },
+    "water dispenser": {
+        "keyword": "faucet"
+    },
+    "faucet": {
+        "keyword": "faucet"
+    },
+    "window": {
+        "keyword": "window"
+    },
+    "gate": {
+        "keyword": "door"
+    },
+    "portal": {
+        "keyword": "door"
+    },
+    "entrance": {
+        "keyword": "door"
+    },
+    "door": {
+        "keyword": "door"
+    },
+    "door frame": {
+        "keyword": "doorjamb"
+    },
+    "window frame": {
+        "keyword": "doorjamb"
+    },
+    "threshold": {
+        "keyword": "doorjamb"
+    },
+    "architrave": {
+        "keyword": "doorjamb"
+    },
+    "doorjamb": {
+        "keyword": "doorjamb"
+    },
+    "washcloth": {
+        "keyword": "towel"
+    },
+    "bathrobe": {
+        "keyword": "towel"
+    },
+    "napkin": {
+        "keyword": "towel"
+    },
+    "tablecloth": {
+        "keyword": "towel"
+    },
+    "towel": {
+        "keyword": "towel"
+    },
+    "cologne": {
+        "keyword": "perfume"
+    },
+    "fragrance": {
+        "keyword": "perfume"
+    },
+    "scent": {
+        "keyword": "perfume"
+    },
+    "essential oil": {
+        "keyword": "perfume"
+    },
+    "perfume": {
+        "keyword": "perfume"
+    },
+    "antiperspirant": {
+        "keyword": "deodorant"
+    },
+    "body spray": {
+        "keyword": "deodorant"
+    },
+    "scented lotion": {
+        "keyword": "deodorant"
+    },
+    "deodorant": {
+        "keyword": "deodorant"
+    },
+    "shampoo": {
+        "keyword": "hairproduct"
+    },
+    "conditioner": {
+        "keyword": "hairproduct"
+    },
+    "styling gel": {
+        "keyword": "hairproduct"
+    },
+    "hair oil": {
+        "keyword": "hairproduct"
+    },
+    "hairproduct": {
+        "keyword": "hairproduct"
+    },
+    "moisturizer": {
+        "keyword": "facecream"
+    },
+    "lotion": {
+        "keyword": "facecream"
+    },
+    "serum": {
+        "keyword": "facecream"
+    },
+    "gel": {
+        "keyword": "facecream"
+    },
+    "facecream": {
+        "keyword": "facecream"
+    },
+    "bowl": {
+        "keyword": "plate"
+    },
+    "dish": {
+        "keyword": "plate"
+    },
+    "tray": {
+        "keyword": "plate"
+    },
+    "platter": {
+        "keyword": "plate"
+    },
+    "plate": {
+        "keyword": "plate"
+    },
+    "tooth powder": {
+        "keyword": "toothpaste"
+    },
+    "mouthwash": {
+        "keyword": "toothpaste"
+    },
+    "dental gel": {
+        "keyword": "toothpaste"
+    },
+    "teeth whitening strips": {
+        "keyword": "toothpaste"
+    },
+    "toothpaste": {
+        "keyword": "toothpaste"
+    },
+    "analgesics": {
+        "keyword": "painkillers"
+    },
+    "anti-inflammatory drugs": {
+        "keyword": "painkillers"
+    },
+    "migrain medications": {
+        "keyword": "painkillers"
+    },
+    "narcotics": {
+        "keyword": "painkillers"
+    },
+    "painkillers": {
+        "keyword": "painkillers"
+    },
+    "tumbler": {
+        "keyword": "waterglass"
+    },
+    "mug": {
+        "keyword": "mug"
+    },
+    "cup": {
+        "keyword": "waterglass"
+    },
+    "beaker": {
+        "keyword": "waterglass"
+    },
+    "waterglass": {
+        "keyword": "waterglass"
+    },
+    "floss": {
+        "keyword": "toothbrush"
+    },
+    "toothpick": {
+        "keyword": "toothbrush"
+    },
+    "toothbrush": {
+        "keyword": "toothbrush"
+    },
+    "liquid soap": {
+        "keyword": "barsoap"
+    },
+    "body wash": {
+        "keyword": "barsoap"
+    },
+    "shower gel": {
+        "keyword": "barsoap"
+    },
+    "soap flakes": {
+        "keyword": "barsoap"
+    },
+    "barsoap": {
+        "keyword": "barsoap"
+    },
+    "torch": {
+        "keyword": "candle"
+    },
+    "lamp": {
+        "keyword": "candle"
+    },
+    "flashlight": {
+        "keyword": "candle"
+    },
+    "firecracker": {
+        "keyword": "candle"
+    },
+    "candle": {
+        "keyword": "candle"
+    },
+    "screen": {
+        "keyword": "window"
+    },
+    "opening": {
+        "keyword": "window"
+    },
+    "vent": {
+        "keyword": "window"
+    },
+    "dimmer switch": {
+        "keyword": "lightswitch"
+    },
+    "smart switch": {
+        "keyword": "lightswitch"
+    },
+    "motion sensor switch": {
+        "keyword": "lightswitch"
+    },
+    "remote control switch": {
+        "keyword": "lightswitch"
+    },
+    "lightswitch": {
+        "keyword": "lightswitch"
+    },
+    "dryer": {
+        "keyword": "washingmachine"
+    },
+    "dishwasher": {
+        "keyword": "dishwasher"
+    },
+    "laundromat": {
+        "keyword": "washingmachine"
+    },
+    "washer-dryer combo": {
+        "keyword": "washingmachine"
+    },
+    "washingmachine": {
+        "keyword": "washingmachine"
+    },
+    "desk lamp": {
+        "keyword": "tablelamp"
+    },
+    "reading lamp": {
+        "keyword": "tablelamp"
+    },
+    "table light": {
+        "keyword": "tablelamp"
+    },
+    "tablelamp": {
+        "keyword": "tablelamp"
+    },
+    "bedside table": {
+        "keyword": "nightstand"
+    },
+    "night table": {
+        "keyword": "nightstand"
+    },
+    "side table": {
+        "keyword": "nightstand"
+    },
+    "end table": {
+        "keyword": "nightstand"
+    },
+    "nightstand": {
+        "keyword": "nightstand"
+    },
+    "shelf": {
+        "keyword": "bookshelf"
+    },
+    "cabinet": {
+        "keyword": "cabinet"
+    },
+    "storage unit": {
+        "keyword": "bookshelf"
+    },
+    "bookshelf": {
+        "keyword": "bookshelf"
+    },
+    "stool": {
+        "keyword": "chair"
+    },
+    "bench": {
+        "keyword": "bench"
+    },
+    "armchair": {
+        "keyword": "chair"
+    },
+    "recliner": {
+        "keyword": "chair"
+    },
+    "chair": {
+        "keyword": "chair"
+    },
+    "table": {
+        "keyword": "desk"
+    },
+    "workstation": {
+        "keyword": "desk"
+    },
+    "counter": {
+        "keyword": "desk"
+    },
+    "console": {
+        "keyword": "desk"
+    },
+    "desk": {
+        "keyword": "desk"
+    },
+    "mattress": {
+        "keyword": "bed"
+    },
+    "couch": {
+        "keyword": "bed"
+    },
+    "futon": {
+        "keyword": "bed"
+    },
+    "daybed": {
+        "keyword": "bed"
+    },
+    "bed": {
+        "keyword": "bed"
+    },
+    "console table": {
+        "keyword": "coffeetable"
+    },
+    "accent table": {
+        "keyword": "coffeetable"
+    },
+    "coffeetable": {
+        "keyword": "coffeetable"
+    },
+    "wardrobe": {
+        "keyword": "closet"
+    },
+    "armoire": {
+        "keyword": "closet"
+    },
+    "dresser": {
+        "keyword": "closet"
+    },
+    "closet": {
+        "keyword": "closet"
+    },
+    "coat hook": {
+        "keyword": "hanger"
+    },
+    "clothesline": {
+        "keyword": "hanger"
+    },
+    "hanger": {
+        "keyword": "hanger"
+    },
+    "closetdrawer": {
+        "keyword": "closetdrawer"
+    },
+    "tshirt": {
+        "keyword": "clothesshirt"
+    },
+    "blouse": {
+        "keyword": "clothesshirt"
+    },
+    "sweater": {
+        "keyword": "clothesshirt"
+    },
+    "button-up shirt": {
+        "keyword": "clothesshirt"
+    },
+    "clothesshirt": {
+        "keyword": "clothesshirt"
+    },
+    "jeans": {
+        "keyword": "clothespants"
+    },
+    "trousers": {
+        "keyword": "clothespants"
+    },
+    "chinos": {
+        "keyword": "clothespants"
+    },
+    "cargo pants": {
+        "keyword": "clothespants"
+    },
+    "clothespants": {
+        "keyword": "clothespants"
+    },
+    "laundry basket": {
+        "keyword": "clothespile"
+    },
+    "drying rack": {
+        "keyword": "clothespile"
+    },
+    "folding table": {
+        "keyword": "clothespile"
+    },
+    "clothespile": {
+        "keyword": "clothespile"
+    },
+    "trackpad": {
+        "keyword": "mouse"
+    },
+    "trackball": {
+        "keyword": "mouse"
+    },
+    "stylus": {
+        "keyword": "mouse"
+    },
+    "graphics tablet": {
+        "keyword": "mouse"
+    },
+    "mouse": {
+        "keyword": "mouse"
+    },
+    "mouse pad": {
+        "keyword": "mousemat"
+    },
+    "desk pad": {
+        "keyword": "mousemat"
+    },
+    "keyboard mat": {
+        "keyword": "mousemat"
+    },
+    "wrist rest": {
+        "keyword": "mousemat"
+    },
+    "mousemat": {
+        "keyword": "mousemat"
+    },
+    "piano": {
+        "keyword": "keyboard"
+    },
+    "typewriter": {
+        "keyword": "keyboard"
+    },
+    "computer keyboard": {
+        "keyword": "keyboard"
+    },
+    "musical keyboard": {
+        "keyword": "keyboard"
+    },
+    "keyboard": {
+        "keyword": "keyboard"
+    },
+    "laptop": {
+        "keyword": "computer"
+    },
+    "tablet": {
+        "keyword": "computer"
+    },
+    "smartphone": {
+        "keyword": "computer"
+    },
+    "server": {
+        "keyword": "computer"
+    },
+    "computer": {
+        "keyword": "computer"
+    },
+    "monitor": {
+        "keyword": "cpuscreen"
+    },
+    "display": {
+        "keyword": "cpuscreen"
+    },
+    "visual output device": {
+        "keyword": "cpuscreen"
+    },
+    "cpuscreen": {
+        "keyword": "cpuscreen"
+    },
+    "stereo": {
+        "keyword": "radio"
+    },
+    "podcast receiver": {
+        "keyword": "radio"
+    },
+    "Bluetooth speaker": {
+        "keyword": "radio"
+    },
+    "smart speaker": {
+        "keyword": "radio"
+    },
+    "radio": {
+        "keyword": "radio"
+    },
+    "photo frame": {
+        "keyword": "wallpictureframe"
+    },
+    "art frame": {
+        "keyword": "wallpictureframe"
+    },
+    "canvas frame": {
+        "keyword": "wallpictureframe"
+    },
+    "poster frame": {
+        "keyword": "wallpictureframe"
+    },
+    "wallpictureframe": {
+        "keyword": "wallpictureframe"
+    },
+    "rose": {
+        "keyword": "orchid"
+    },
+    "tulip": {
+        "keyword": "orchid"
+    },
+    "lily": {
+        "keyword": "orchid"
+    },
+    "daisy": {
+        "keyword": "orchid"
+    },
+    "orchid": {
+        "keyword": "orchid"
+    },
+    "cushion": {
+        "keyword": "pillow"
+    },
+    "bolster": {
+        "keyword": "pillow"
+    },
+    "mattress topper": {
+        "keyword": "pillow"
+    },
+    "bean bag": {
+        "keyword": "pillow"
+    },
+    "pillow": {
+        "keyword": "pillow"
+    },
+    "mobile phone": {
+        "keyword": "cellphone"
+    },
+    "cellular phone": {
+        "keyword": "cellphone"
+    },
+    "handheld device": {
+        "keyword": "cellphone"
+    },
+    "cellphone": {
+        "keyword": "cellphone"
+    },
+    "picture holder": {
+        "keyword": "photoframe"
+    },
+    "wall art": {
+        "keyword": "photoframe"
+    },
+    "canvas print": {
+        "keyword": "photoframe"
+    },
+    "display stand": {
+        "keyword": "photoframe"
+    },
+    "photoframe": {
+        "keyword": "photoframe"
+    },
+    "novel": {
+        "keyword": "book"
+    },
+    "magazine": {
+        "keyword": "magazine"
+    },
+    "journal": {
+        "keyword": "book"
+    },
+    "ebook": {
+        "keyword": "book"
+    },
+    "book": {
+        "keyword": "book"
+    },
+    "container": {
+        "keyword": "box"
+    },
+    "package": {
+        "keyword": "box"
+    },
+    "carton": {
+        "keyword": "box"
+    },
+    "crate": {
+        "keyword": "box"
+    },
+    "box": {
+        "keyword": "box"
+    },
+    "glass": {
+        "keyword": "mug"
+    },
+    "steins": {
+        "keyword": "mug"
+    },
+    "muffin": {
+        "keyword": "cupcake"
+    },
+    "brownie": {
+        "keyword": "cupcake"
+    },
+    "cookie": {
+        "keyword": "cupcake"
+    },
+    "donut": {
+        "keyword": "cupcake"
+    },
+    "cupcake": {
+        "keyword": "cupcake"
+    },
+    "goblet": {
+        "keyword": "wineglass"
+    },
+    "chalice": {
+        "keyword": "wineglass"
+    },
+    "flute": {
+        "keyword": "wineglass"
+    },
+    "tumblr": {
+        "keyword": "wineglass"
+    },
+    "wineglass": {
+        "keyword": "wineglass"
+    },
+    "flip-flops": {
+        "keyword": "slippers"
+    },
+    "house shoes": {
+        "keyword": "slippers"
+    },
+    "sandals": {
+        "keyword": "slippers"
+    },
+    "mules": {
+        "keyword": "slippers"
+    },
+    "slippers": {
+        "keyword": "slippers"
+    },
+    "binder": {
+        "keyword": "folder"
+    },
+    "file": {
+        "keyword": "folder"
+    },
+    "envelope": {
+        "keyword": "folder"
+    },
+    "portfolio": {
+        "keyword": "folder"
+    },
+    "folder": {
+        "keyword": "folder"
+    },
+    "trash bin": {
+        "keyword": "garbagecan"
+    },
+    "wastebasket": {
+        "keyword": "garbagecan"
+    },
+    "rubbish bin": {
+        "keyword": "garbagecan"
+    },
+    "refuse container": {
+        "keyword": "garbagecan"
+    },
+    "garbagecan": {
+        "keyword": "garbagecan"
+    },
+    "media console": {
+        "keyword": "tvstand"
+    },
+    "entertainment center": {
+        "keyword": "tvstand"
+    },
+    "TV cabinet": {
+        "keyword": "tvstand"
+    },
+    "AV stand": {
+        "keyword": "tvstand"
+    },
+    "tvstand": {
+        "keyword": "tvstand"
+    },
+    "dining table": {
+        "keyword": "kitchentable"
+    },
+    "breakfast nook": {
+        "keyword": "kitchentable"
+    },
+    "work table": {
+        "keyword": "kitchentable"
+    },
+    "bar table": {
+        "keyword": "kitchentable"
+    },
+    "kitchentable": {
+        "keyword": "kitchentable"
+    },
+    "seat": {
+        "keyword": "bench"
+    },
+    "cupboard": {
+        "keyword": "kitchencabinet"
+    },
+    "pantry": {
+        "keyword": "kitchencabinet"
+    },
+    "kitchencabinet": {
+        "keyword": "kitchencabinet"
+    },
+    "kitchen island": {
+        "keyword": "kitchencounter"
+    },
+    "bar counter": {
+        "keyword": "kitchencounter"
+    },
+    "prep station": {
+        "keyword": "kitchencounter"
+    },
+    "kitchencounter": {
+        "keyword": "kitchencounter"
+    },
+    "kitchen cabinet": {
+        "keyword": "kitchencounterdrawer"
+    },
+    "drawer organizer": {
+        "keyword": "kitchencounterdrawer"
+    },
+    "pantry shelf": {
+        "keyword": "kitchencounterdrawer"
+    },
+    "storage bin": {
+        "keyword": "kitchencounterdrawer"
+    },
+    "kitchencounterdrawer": {
+        "keyword": "kitchencounterdrawer"
+    },
+    "basin": {
+        "keyword": "sink"
+    },
+    "washbasin": {
+        "keyword": "sink"
+    },
+    "fountain": {
+        "keyword": "sink"
+    },
+    "sink": {
+        "keyword": "sink"
+    },
+    "power outlet": {
+        "keyword": "powersocket"
+    },
+    "electrical socket": {
+        "keyword": "powersocket"
+    },
+    "wall socket": {
+        "keyword": "powersocket"
+    },
+    "power receptacle": {
+        "keyword": "powersocket"
+    },
+    "powersocket": {
+        "keyword": "powersocket"
+    },
+    "landline phone": {
+        "keyword": "wallphone"
+    },
+    "cordless phone": {
+        "keyword": "wallphone"
+    },
+    "rotary phone": {
+        "keyword": "wallphone"
+    },
+    "payphone": {
+        "keyword": "wallphone"
+    },
+    "wallphone": {
+        "keyword": "wallphone"
+    },
+    "projector": {
+        "keyword": "tv"
+    },
+    "smart display": {
+        "keyword": "tv"
+    },
+    "tv": {
+        "keyword": "tv"
+    },
+    "watch": {
+        "keyword": "clock"
+    },
+    "timer": {
+        "keyword": "clock"
+    },
+    "hourglass": {
+        "keyword": "clock"
+    },
+    "calendar": {
+        "keyword": "clock"
+    },
+    "clock": {
+        "keyword": "clock"
+    },
+    "loofah": {
+        "keyword": "washingsponge"
+    },
+    "scrub brush": {
+        "keyword": "washingsponge"
+    },
+    "cleaning cloth": {
+        "keyword": "washingsponge"
+    },
+    "scrubber pad": {
+        "keyword": "washingsponge"
+    },
+    "washingsponge": {
+        "keyword": "washingsponge"
+    },
+    "dish soap": {
+        "keyword": "dishwashingliquid"
+    },
+    "dish detergent": {
+        "keyword": "dishwashingliquid"
+    },
+    "laundry detergent": {
+        "keyword": "dishwashingliquid"
+    },
+    "cleaning solution": {
+        "keyword": "dishwashingliquid"
+    },
+    "dishwashingliquid": {
+        "keyword": "dishwashingliquid"
+    },
+    "skillet": {
+        "keyword": "fryingpan"
+    },
+    "saut\u00e9 pan": {
+        "keyword": "fryingpan"
+    },
+    "wok": {
+        "keyword": "fryingpan"
+    },
+    "griddle": {
+        "keyword": "fryingpan"
+    },
+    "fryingpan": {
+        "keyword": "fryingpan"
+    },
+    "kitchen knife": {
+        "keyword": "cutleryknife"
+    },
+    "paring knife": {
+        "keyword": "cutleryknife"
+    },
+    "chef's knife": {
+        "keyword": "cutleryknife"
+    },
+    "utility knife": {
+        "keyword": "cutleryknife"
+    },
+    "cutleryknife": {
+        "keyword": "cutleryknife"
+    },
+    "cutleryspoon": {
+        "keyword": "cutleryfork"
+    },
+    "cutleryservingfork": {
+        "keyword": "cutleryfork"
+    },
+    "cutlerysaladfork": {
+        "keyword": "cutleryfork"
+    },
+    "cutleryfork": {
+        "keyword": "cutleryfork"
+    },
+    "mixing bowl": {
+        "keyword": "dishbowl"
+    },
+    "serving bowl": {
+        "keyword": "dishbowl"
+    },
+    "salad bowl": {
+        "keyword": "dishbowl"
+    },
+    "fruit bowl": {
+        "keyword": "dishbowl"
+    },
+    "dishbowl": {
+        "keyword": "dishbowl"
+    },
+    "sauce dispenser": {
+        "keyword": "condimentbottle"
+    },
+    "ketchup bottle": {
+        "keyword": "condimentbottle"
+    },
+    "mustard container": {
+        "keyword": "condimentbottle"
+    },
+    "oil cruet": {
+        "keyword": "condimentbottle"
+    },
+    "condimentbottle": {
+        "keyword": "condimentbottle"
+    },
+    "salt shaker": {
+        "keyword": "condimentshaker"
+    },
+    "pepper mill": {
+        "keyword": "condimentshaker"
+    },
+    "spice jar": {
+        "keyword": "condimentshaker"
+    },
+    "seasoning dispenser": {
+        "keyword": "condimentshaker"
+    },
+    "condimentshaker": {
+        "keyword": "condimentshaker"
+    },
+    "cardboard": {
+        "keyword": "paper"
+    },
+    "notebook": {
+        "keyword": "paper"
+    },
+    "card": {
+        "keyword": "paper"
+    },
+    "tissue": {
+        "keyword": "paper"
+    },
+    "paper": {
+        "keyword": "paper"
+    },
+    "kitchen fan": {
+        "keyword": "stovefan"
+    },
+    "range hood": {
+        "keyword": "stovefan"
+    },
+    "exhaust fan": {
+        "keyword": "stovefan"
+    },
+    "ventilation fan": {
+        "keyword": "stovefan"
+    },
+    "stovefan": {
+        "keyword": "stovefan"
+    },
+    "freezer": {
+        "keyword": "fridge"
+    },
+    "cooler": {
+        "keyword": "fridge"
+    },
+    "refrigerator": {
+        "keyword": "fridge"
+    },
+    "icebox": {
+        "keyword": "fridge"
+    },
+    "fridge": {
+        "keyword": "fridge"
+    },
+    "espresso machine": {
+        "keyword": "coffeemaker"
+    },
+    "coffee grinder": {
+        "keyword": "coffeemaker"
+    },
+    "French press": {
+        "keyword": "coffeemaker"
+    },
+    "percolator": {
+        "keyword": "coffeemaker"
+    },
+    "coffeemaker": {
+        "keyword": "coffeemaker"
+    },
+    "teapot": {
+        "keyword": "coffeepot"
+    },
+    "kettle": {
+        "keyword": "coffeepot"
+    },
+    "coffeepot": {
+        "keyword": "coffeepot"
+    },
+    "toaster oven": {
+        "keyword": "toaster"
+    },
+    "electric kettle": {
+        "keyword": "toaster"
+    },
+    "air fryer": {
+        "keyword": "toaster"
+    },
+    "microwave": {
+        "keyword": "microwave"
+    },
+    "toaster": {
+        "keyword": "toaster"
+    },
+    "toast": {
+        "keyword": "breadslice"
+    },
+    "bagel": {
+        "keyword": "breadslice"
+    },
+    "biscuit": {
+        "keyword": "breadslice"
+    },
+    "crouton": {
+        "keyword": "breadslice"
+    },
+    "breadslice": {
+        "keyword": "breadslice"
+    },
+    "oven": {
+        "keyword": "stove"
+    },
+    "cooktop": {
+        "keyword": "stove"
+    },
+    "grill": {
+        "keyword": "stove"
+    },
+    "hot plate": {
+        "keyword": "stove"
+    },
+    "stove": {
+        "keyword": "stove"
+    },
+    "baking sheet": {
+        "keyword": "oventray"
+    },
+    "roasting pan": {
+        "keyword": "oventray"
+    },
+    "casserole dish": {
+        "keyword": "oventray"
+    },
+    "cookie sheet": {
+        "keyword": "oventray"
+    },
+    "oventray": {
+        "keyword": "oventray"
+    },
+    "slow cooker": {
+        "keyword": "microwave"
+    },
+    "plantains": {
+        "keyword": "bananas"
+    },
+    "mangoes": {
+        "keyword": "bananas"
+    },
+    "apricots": {
+        "keyword": "bananas"
+    },
+    "papayas": {
+        "keyword": "bananas"
+    },
+    "bananas": {
+        "keyword": "bananas"
+    },
+    "frosting": {
+        "keyword": "whippedcream"
+    },
+    "meringue": {
+        "keyword": "whippedcream"
+    },
+    "cool whip": {
+        "keyword": "whippedcream"
+    },
+    "chantilly cream": {
+        "keyword": "whippedcream"
+    },
+    "whippedcream": {
+        "keyword": "whippedcream"
+    },
+    "tart": {
+        "keyword": "pie"
+    },
+    "cake": {
+        "keyword": "pie"
+    },
+    "cobbler": {
+        "keyword": "pie"
+    },
+    "quiche": {
+        "keyword": "pie"
+    },
+    "pie": {
+        "keyword": "pie"
+    },
+    "jalapeno": {
+        "keyword": "bellpepper"
+    },
+    "habanero": {
+        "keyword": "bellpepper"
+    },
+    "banana pepper": {
+        "keyword": "bellpepper"
+    },
+    "poblano": {
+        "keyword": "bellpepper"
+    },
+    "bellpepper": {
+        "keyword": "bellpepper"
+    },
+    "trout": {
+        "keyword": "salmon"
+    },
+    "tuna": {
+        "keyword": "salmon"
+    },
+    "mackerel": {
+        "keyword": "salmon"
+    },
+    "herring": {
+        "keyword": "salmon"
+    },
+    "salmon": {
+        "keyword": "salmon"
+    },
+    "crisps": {
+        "keyword": "chips"
+    },
+    "snack sticks": {
+        "keyword": "chips"
+    },
+    "popcorn": {
+        "keyword": "chips"
+    },
+    "pretzels": {
+        "keyword": "chips"
+    },
+    "chips": {
+        "keyword": "chips"
+    },
+    "chocolate bar": {
+        "keyword": "candybar"
+    },
+    "granola bar": {
+        "keyword": "candybar"
+    },
+    "protein bar": {
+        "keyword": "candybar"
+    },
+    "snack bar": {
+        "keyword": "candybar"
+    },
+    "candybar": {
+        "keyword": "candybar"
+    },
+    "caramel sauce": {
+        "keyword": "chocolatesyrup"
+    },
+    "honey": {
+        "keyword": "chocolatesyrup"
+    },
+    "maple syrup": {
+        "keyword": "chocolatesyrup"
+    },
+    "fruit syrup": {
+        "keyword": "chocolatesyrup"
+    },
+    "chocolatesyrup": {
+        "keyword": "chocolatesyrup"
+    },
+    "biscuits": {
+        "keyword": "crackers"
+    },
+    "rice cakes": {
+        "keyword": "crackers"
+    },
+    "breadsticks": {
+        "keyword": "crackers"
+    },
+    "crackers": {
+        "keyword": "crackers"
+    },
+    "custard buns": {
+        "keyword": "creamybuns"
+    },
+    "cream puffs": {
+        "keyword": "creamybuns"
+    },
+    "eclairs": {
+        "keyword": "creamybuns"
+    },
+    "filled pastries": {
+        "keyword": "creamybuns"
+    },
+    "creamybuns": {
+        "keyword": "creamybuns"
+    },
+    "granola": {
+        "keyword": "cereal"
+    },
+    "oatmeal": {
+        "keyword": "cereal"
+    },
+    "muesli": {
+        "keyword": "cereal"
+    },
+    "breakfast bars": {
+        "keyword": "cereal"
+    },
+    "cereal": {
+        "keyword": "cereal"
+    },
+    "ground": {
+        "keyword": "floor"
+    },
+    "surface": {
+        "keyword": "floor"
+    },
+    "terrain": {
+        "keyword": "floor"
+    },
+    "deck": {
+        "keyword": "floor"
+    },
+    "floor": {
+        "keyword": "floor"
+    },
+    "loveseat": {
+        "keyword": "sofa"
+    },
+    "sectional": {
+        "keyword": "sofa"
+    },
+    "settee": {
+        "keyword": "sofa"
+    },
+    "sofa": {
+        "keyword": "sofa"
+    },
+    "pear": {
+        "keyword": "pear"
+    },
+    "orange": {
+        "keyword": "apple"
+    },
+    "grape": {
+        "keyword": "apple"
+    },
+    "peach": {
+        "keyword": "peach"
+    },
+    "apple": {
+        "keyword": "apple"
+    },
+    "lemon": {
+        "keyword": "lime"
+    },
+    "grapefruit": {
+        "keyword": "lime"
+    },
+    "kiwi": {
+        "keyword": "lime"
+    },
+    "tangerine": {
+        "keyword": "lime"
+    },
+    "lime": {
+        "keyword": "lime"
+    },
+    "nectarine": {
+        "keyword": "peach"
+    },
+    "apricot": {
+        "keyword": "peach"
+    },
+    "plum": {
+        "keyword": "plum"
+    },
+    "mango": {
+        "keyword": "peach"
+    },
+    "cherry": {
+        "keyword": "plum"
+    },
+    "universal remote": {
+        "keyword": "remotecontrol"
+    },
+    "TV remote": {
+        "keyword": "remotecontrol"
+    },
+    "smartphone app": {
+        "keyword": "remotecontrol"
+    },
+    "game controller": {
+        "keyword": "remotecontrol"
+    },
+    "remotecontrol": {
+        "keyword": "remotecontrol"
+    },
+    "tissues": {
+        "keyword": "toiletpaper"
+    },
+    "paper towels": {
+        "keyword": "toiletpaper"
+    },
+    "napkins": {
+        "keyword": "toiletpaper"
+    },
+    "facial tissues": {
+        "keyword": "toiletpaper"
+    },
+    "toiletpaper": {
+        "keyword": "toiletpaper"
+    },
+    "file organizer": {
+        "keyword": "papertray"
+    },
+    "document holder": {
+        "keyword": "papertray"
+    },
+    "letter tray": {
+        "keyword": "papertray"
+    },
+    "desktop file sorter": {
+        "keyword": "papertray"
+    },
+    "papertray": {
+        "keyword": "papertray"
+    },
+    "cutlery tray": {
+        "keyword": "knifeblock"
+    },
+    "knife holder": {
+        "keyword": "knifeblock"
+    },
+    "magnetic knife strip": {
+        "keyword": "knifeblock"
+    },
+    "utensil organizer": {
+        "keyword": "knifeblock"
+    },
+    "knifeblock": {
+        "keyword": "knifeblock"
+    },
+    "saucepan": {
+        "keyword": "cookingpot"
+    },
+    "frying pan": {
+        "keyword": "cookingpot"
+    },
+    "stockpot": {
+        "keyword": "cookingpot"
+    },
+    "cookingpot": {
+        "keyword": "cookingpot"
+    },
+    "washing machine": {
+        "keyword": "dishwasher"
+    },
+    "clothes dryer": {
+        "keyword": "dishwasher"
+    },
+    "dish rack": {
+        "keyword": "dishwasher"
+    },
+    "turkey": {
+        "keyword": "chicken"
+    },
+    "duck": {
+        "keyword": "chicken"
+    },
+    "quail": {
+        "keyword": "chicken"
+    },
+    "pheasant": {
+        "keyword": "chicken"
+    },
+    "chicken": {
+        "keyword": "chicken"
+    },
+    "croquettes": {
+        "keyword": "cutlets"
+    },
+    "nuggets": {
+        "keyword": "cutlets"
+    },
+    "fritters": {
+        "keyword": "cutlets"
+    },
+    "patties": {
+        "keyword": "cutlets"
+    },
+    "cutlets": {
+        "keyword": "cutlets"
+    },
+    "sponge cake": {
+        "keyword": "poundcake"
+    },
+    "bundt cake": {
+        "keyword": "poundcake"
+    },
+    "chiffon cake": {
+        "keyword": "poundcake"
+    },
+    "tea cake": {
+        "keyword": "poundcake"
+    },
+    "poundcake": {
+        "keyword": "poundcake"
+    },
+    "soda": {
+        "keyword": "juice"
+    },
+    "smoothie": {
+        "keyword": "juice"
+    },
+    "nectar": {
+        "keyword": "juice"
+    },
+    "milkshake": {
+        "keyword": "milkshake"
+    },
+    "juice": {
+        "keyword": "juice"
+    },
+    "almond milk": {
+        "keyword": "milk"
+    },
+    "soy milk": {
+        "keyword": "milk"
+    },
+    "oat milk": {
+        "keyword": "milk"
+    },
+    "coconut milk": {
+        "keyword": "milk"
+    },
+    "milk": {
+        "keyword": "milk"
+    },
+    "ground beef": {
+        "keyword": "mincedmeat"
+    },
+    "chopped chicken": {
+        "keyword": "mincedmeat"
+    },
+    "minced turkey": {
+        "keyword": "mincedmeat"
+    },
+    "ground lamb": {
+        "keyword": "mincedmeat"
+    },
+    "mincedmeat": {
+        "keyword": "mincedmeat"
+    },
+    "game": {
+        "keyword": "toy"
+    },
+    "doll": {
+        "keyword": "toy"
+    },
+    "puzzle": {
+        "keyword": "toy"
+    },
+    "action figure": {
+        "keyword": "toy"
+    },
+    "toy": {
+        "keyword": "toy"
+    },
+    "waffle": {
+        "keyword": "pancake"
+    },
+    "crepe": {
+        "keyword": "pancake"
+    },
+    "flapjack": {
+        "keyword": "pancake"
+    },
+    "blintz": {
+        "keyword": "pancake"
+    },
+    "pancake": {
+        "keyword": "pancake"
+    },
+    "memos": {
+        "keyword": "notes"
+    },
+    "annotations": {
+        "keyword": "notes"
+    },
+    "reminders": {
+        "keyword": "notes"
+    },
+    "messages": {
+        "keyword": "notes"
+    },
+    "notes": {
+        "keyword": "notes"
+    },
+    "frappuccino": {
+        "keyword": "milkshake"
+    },
+    "milk punch": {
+        "keyword": "milkshake"
+    },
+    "shake": {
+        "keyword": "milkshake"
+    },
+    "mousse": {
+        "keyword": "pudding"
+    },
+    "flan": {
+        "keyword": "pudding"
+    },
+    "custard": {
+        "keyword": "pudding"
+    },
+    "gelatin": {
+        "keyword": "pudding"
+    },
+    "pudding": {
+        "keyword": "pudding"
+    },
+    "copier": {
+        "keyword": "printer"
+    },
+    "scanner": {
+        "keyword": "printer"
+    },
+    "fax machine": {
+        "keyword": "printer"
+    },
+    "multifunction printer": {
+        "keyword": "printer"
+    },
+    "printer": {
+        "keyword": "printer"
+    },
+    "chopping board": {
+        "keyword": "cuttingboard"
+    },
+    "butcher block": {
+        "keyword": "cuttingboard"
+    },
+    "kitchen mat": {
+        "keyword": "cuttingboard"
+    },
+    "food prep surface": {
+        "keyword": "cuttingboard"
+    },
+    "cuttingboard": {
+        "keyword": "cuttingboard"
+    },
+    "parsnip": {
+        "keyword": "carrot"
+    },
+    "sweet potato": {
+        "keyword": "carrot"
+    },
+    "turnip": {
+        "keyword": "carrot"
+    },
+    "radish": {
+        "keyword": "carrot"
+    },
+    "carrot": {
+        "keyword": "carrot"
+    },
+    "coleslaw": {
+        "keyword": "salad"
+    },
+    "cabbage salad": {
+        "keyword": "salad"
+    },
+    "fruit salad": {
+        "keyword": "salad"
+    },
+    "bean salad": {
+        "keyword": "salad"
+    },
+    "salad": {
+        "keyword": "salad"
+    },
+    "newspaper": {
+        "keyword": "magazine"
+    },
+    "newsletter": {
+        "keyword": "magazine"
+    },
+    "brochure": {
+        "keyword": "magazine"
+    },
+    "table fan": {
+        "keyword": "ceilingfan"
+    },
+    "wall fan": {
+        "keyword": "ceilingfan"
+    },
+    "pedestal fan": {
+        "keyword": "ceilingfan"
+    },
+    "ceilingfan": {
+        "keyword": "ceilingfan"
+    },
+    "colored pencils": {
+        "keyword": "crayons"
+    },
+    "markers": {
+        "keyword": "crayons"
+    },
+    "pastels": {
+        "keyword": "crayons"
+    },
+    "oil paints": {
+        "keyword": "crayons"
+    },
+    "crayons": {
+        "keyword": "crayons"
+    },
+    "water bottle": {
+        "keyword": "bottlewater"
+    },
+    "energy drink": {
+        "keyword": "bottlewater"
+    },
+    "sports drink": {
+        "keyword": "bottlewater"
+    },
+    "bottle": {
+        "keyword": "bottlewater"
+    },
+    "bottlewater": {
+        "keyword": "bottlewater"
+    },
+    "beer": {
+        "keyword": "alcohol"
+    },
+    "wine": {
+        "keyword": "wine"
+    },
+    "spirits": {
+        "keyword": "alcohol"
+    },
+    "liquor": {
+        "keyword": "alcohol"
+    },
+    "alcohol": {
+        "keyword": "alcohol"
+    },
+    "ice cream": {
+        "keyword": "sundae"
+    },
+    "ice cream float": {
+        "keyword": "sundae"
+    },
+    "frozen yogurt parfait": {
+        "keyword": "sundae"
+    },
+    "sundae": {
+        "keyword": "sundae"
+    },
+    "cider": {
+        "keyword": "wine"
+    },
+    "mead": {
+        "keyword": "wine"
+    },
+    "microphone": {
+        "keyword": "speaker"
+    },
+    "headphones": {
+        "keyword": "speaker"
+    },
+    "amplifier": {
+        "keyword": "amplifier"
+    },
+    "soundbar": {
+        "keyword": "speaker"
+    },
+    "speaker": {
+        "keyword": "speaker"
+    },
+    "mixer": {
+        "keyword": "amplifier"
+    },
+    "equalizer": {
+        "keyword": "amplifier"
+    },
+    "preamp": {
+        "keyword": "amplifier"
+    },
+    "signal processor": {
+        "keyword": "amplifier"
+    },
+    "ukulele": {
+        "keyword": "guitar"
+    },
+    "banjo": {
+        "keyword": "guitar"
+    },
+    "mandolin": {
+        "keyword": "guitar"
+    },
+    "bass guitar": {
+        "keyword": "guitar"
+    },
+    "guitar": {
+        "keyword": "guitar"
+    },
+    "card game": {
+        "keyword": "boardgame"
+    },
+    "tabletop game": {
+        "keyword": "boardgame"
+    },
+    "puzzle game": {
+        "keyword": "boardgame"
+    },
+    "strategy game": {
+        "keyword": "boardgame"
+    },
+    "boardgame": {
+        "keyword": "boardgame"
+    },
+    "fence": {
+        "keyword": "wall"
+    },
+    "barrier": {
+        "keyword": "wall"
+    },
+    "partition": {
+        "keyword": "wall"
+    },
+    "divider": {
+        "keyword": "wall"
+    },
+    "wall": {
+        "keyword": "wall"
+    }
+}
