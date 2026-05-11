@@ -354,4 +354,4 @@ range_part_1_label_regenerated_Sarah_routine_env_0_Monday_parsed_grounded_bedroo
 
 These range files associate each activity with its corresponding frame span in the simulation output.
 
-**These two types of outputs will be further processed in Step 11 of [AgentSense: Generating Daily Household Activity Scripts Using Large Language Models](https://www.notion.so/AgentSense-Generating-Daily-Household-Activity-Scripts-Using-Large-Language-Models-2d7d5ba10f4080ad8983f8f3e867e90f?pvs=21), where they are converted into sensor data and used for downstream analysis and model training.**
+**These two types of outputs will be further processed in Step 11 of [AgentSense: Generating Daily Household Activity Scripts Using Large Language Models](https://github.com/ZikangLeng/AgentSense/blob/main/AgentSense_pipeline/AgentSense%20Generating%20Daily%20Household%20Activity%20Scr%202d7d5ba10f4080ad8983f8f3e867e90f.md), where they are converted into sensor data and used for downstream analysis and model training.**
