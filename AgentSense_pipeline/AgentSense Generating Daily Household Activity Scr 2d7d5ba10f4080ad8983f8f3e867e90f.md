@@ -898,6 +898,14 @@ motion_part_1_label_regenerated_Sarah_routine_env_0_Monday_parsed_grounded_bedro
 range_part_1_label_regenerated_Sarah_routine_env_0_Monday_parsed_grounded_bedroom.txt
 ```
 
+**Download the generated dataset**
+
+The simulator-processed activity-to-frame-range files are available
+for download below. The dataset covers 249 days of generated routines,
+with each day split into 4–6 parts. Files are grouped by environment.
+
+[Download the dataset (ZIP)](https://drive.google.com/file/d/1SUkq4aSXJD8USMESzmyoXIeisWgcljSn/view?usp=sharing)
+
 **Notes**
 
 - The **motion location data file** contains a duplicated `.txt.txt` extension.
