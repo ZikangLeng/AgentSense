@@ -883,7 +883,7 @@ In later simulation stages, this information becomes particularly useful because
 
 # Step 10: Simulation
 
-In this step, you will transfer the files generated in **Step 9** to the server so that the simulator can execute the corresponding scripts. Please refer to [**AgentSense: Server Environment Setup and Synthetic Data Generation Using the VirtualHome Simulator](https://github.com/ZikangLeng/AgentSense/blob/main/VirtualHome_API/AgentSense%20Server%20Environment%20Setup%20and%20Synthetic%20%202d6d5ba10f4080939e12ef9eff360f2d.md)** for detailed instructions on server configuration, file transfer, and synthetic data generation.
+In this step, you will transfer the files generated in **Step 9** to the server so that the simulator can execute the corresponding scripts. Please refer to [**AgentSense: Server Environment Setup and Synthetic Data Generation Using the VirtualHome Simulator**](https://github.com/ZikangLeng/AgentSense/blob/main/VirtualHome_API/AgentSense%20Server%20Environment%20Setup%20and%20Synthetic%20%202d6d5ba10f4080939e12ef9eff360f2d.md) for detailed instructions on server configuration, file transfer, and synthetic data generation.
 
 For example, if the input file for **Step 10** (generated in Step 9) is:
 
