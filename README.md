@@ -38,15 +38,6 @@
 
 <img src="assets/agentsense_overview.png" alt="AgentSense pipeline: LLM-generated personas and routines are executed by embodied agents in a simulated home with ambient sensors" width="100%">
 
-```mermaid
-flowchart LR
-    A["🧑 Persona<br/><sub>age, job, health, lifestyle</sub>"] --> B["📅 Weekly schedule"]
-    B --> C["📝 Daily routine<br/><sub>fine-grained steps</sub>"]
-    C --> D["🔗 Grounded actions<br/><sub>matched to the home's objects</sub>"]
-    D --> E["🏠 Embodied agent<br/><sub>extended VirtualHome</sub>"]
-    E --> F["📡 Ambient sensor stream<br/><sub>motion · door · device</sub>"]
-    F --> G["🧠 Pretrain HAR model"]
-```
 
 1. **Personas.** An LLM generates residents with distinct ages, occupations, health conditions and habits.
 2. **Schedules and routines.** Each persona gets a weekly schedule, which is expanded into step-by-step daily routines.
