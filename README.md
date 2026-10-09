@@ -45,6 +45,28 @@
 4. **Simulation.** Agents execute the routines in an extended VirtualHome. Every room has motion sensors, and door and device sensors are derived from the environment graph.
 5. **Pretraining.** The virtual sensor data pretrains activity-recognition models, which are then fine-tuned on real homes.
 
+## Inside the simulated homes
+
+Agents carry out their generated routines in the extended VirtualHome. The ambient sensors read exactly these movements.
+
+<p align="center">
+  <img src="assets/vh_routine_followcam.gif" alt="Persona Sam walks to the kitchen counter, grabs bread and uses the toaster" width="80%"><br>
+  <sub>Persona Sam's Monday morning, 06:50: walking to the counter and making toast (home 18).</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/vh_watch_tv_env29.jpg" alt="Agent watching TV on the sofa"><br><sub>Watching TV on the sofa (home 29)</sub></td>
+    <td width="50%"><img src="assets/vh_open_fridge_env18.jpg" alt="Agent opening the fridge"><br><sub>Opening the fridge (home 18)</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/vh_stove_env00.jpg" alt="Agent at the stove"><br><sub>At the stove (home 0)</sub></td>
+    <td width="50%"><img src="assets/vh_overview_iso_env18.jpg" alt="Cutaway view of a whole simulated home"><br><sub>A whole simulated home, ceilings removed (home 18)</sub></td>
+  </tr>
+</table>
+
+<sub>More renders and clips are on the <a href="https://zikangleng.github.io/agentsense/">project page</a>. TV screens show a frame from Big Buck Bunny (© Blender Foundation, CC BY 3.0).</sub>
+
 ## Results
 
 Pretraining on AgentSense data and then fine-tuning on real data improves macro F1 on all five real datasets (TDOST-Basic + Bi-LSTM, mean of 3 folds):
