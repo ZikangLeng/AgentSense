@@ -2,8 +2,6 @@
 
 <img src="assets/agentsense_logo.svg" alt="AgentSense logo" width="300">
 
-# AgentSense
-
 ### Virtual Sensor Data Generation Using LLM Agents in Simulated Home Environments
 
 **[Zikang Leng](https://zikangleng.github.io/)\*, Megha Thukral\*, Yaqi Liu\*, Hrudhai Rajasekhar, Shruthi K. Hiremath, Jiaman He, [Thomas Plötz](https://ploetzlab.net/)**
